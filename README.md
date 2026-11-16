@@ -2,7 +2,7 @@
 
 **An agent for Razorpay Agent Studio that decides, booking by booking, what a hotel guest should pay upfront, so hotels stop losing rooms to cancellations and no-shows without losing bookings.**
 
-[**Live prototype**](https://guarantee-agent-prototype.vercel.app) · [**Product walkthrough video**](https://drive.google.com/file/d/1ib39a6STp9PHmeCNZgH8qW3Px_kqabIz/view?usp=sharing) · Razorpay AI PM Build Challenge, Track 2: Recover and Grow with AI
+[**Live prototype**](https://guarantee-agent-vdpay.vercel.app) · [**Product walkthrough video**](https://drive.google.com/file/d/1ib39a6STp9PHmeCNZgH8qW3Px_kqabIz/view?usp=sharing) · Razorpay AI PM Build Challenge, Track 2: Recover and Grow with AI
 
 ---
 
